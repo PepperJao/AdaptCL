@@ -12,7 +12,6 @@ In this paper, we propose AdaptCL, a novel adaptive continual learning method to
 
 - **Code**: The code for the AdaptCL method.
 - **Datasets**: Relevant datasets used in the experiments.
-- **Documentation**: Detailed documentation on how to use the code and reproduce the experiments.
 - **Citation**: Please cite our paper if you use this code or find our work helpful.
 
 ## Usage
@@ -22,10 +21,4 @@ In this paper, we propose AdaptCL, a novel adaptive continual learning method to
 ## Citation
 
 If you use this code or find our work helpful, please consider citing our paper:
-
-[Paper Title](Link to the Paper)
-
-## License
-
-This project is licensed under the [LICENSE NAME](LICENSE).
 
